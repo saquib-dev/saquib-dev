@@ -1,4 +1,4 @@
-# Hello, I'm **M Saquib Majid** 😊 
+# Hello, I'm *M Saquib Majid* 😊 
 
 💡 **Founder & CEO** of [www.Linklinkgo.com](https://www.linklinkgo.com) | **Creator of Hackway** – A YouTube channel dedicated to coding, online awareness, web development, and problem-solving.  
 
