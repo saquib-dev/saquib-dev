@@ -24,32 +24,27 @@
 ## 🗃️ Simple to High-Level Projects
 
 <details>
-<summary><strong>
-#  1️⃣ Simple-Level Projects
-</strong> — Click to expand</summary>
-
-  - ✅ *To-Do List App* — CRUD, localStorage, responsive UI  
+<summary><strong> 1️⃣ Simple-Level Projects</strong> — Click to expand</summary>
++
+- ✅ *To-Do List App* — CRUD, localStorage, responsive UI  
 - 🌤 *Weather App* — API consumption, error handling, PWA-ready  
 - 🧮 *Basic Calculator* — Clean UI, keyboard support
-
 </details>
 
 <details open>
-#  <summary><strong>2️⃣ Medium-Level Projects</strong> — Click to expand</summary>
-
+<summary><strong>2️⃣ Medium-Level Projects</strong> — Click to expand</summary>
++
 - 📝 *Blog Platform* — Auth, markdown, image uploads  
 - 💬 *Chat Application* — WebSockets, realtime UI  
 - 📋 *Task Management Tool* — Kanban, filters, persistence
-
 </details>
 
 <details>
-#  <summary><strong>3️⃣ High-Level Projects</strong> — Click to expand</summary>
-
+<summary><strong>3️⃣ High-Level Projects</strong> — Click to expand</summary>
++
 - 🛒 *E-commerce Website* — Payments, inventory, search  
 - 📱 *Social Media Platform* — Feeds, likes, notifications  
 - 🤖 *AI-Powered Recommendation System* — ML model + infra
-
 </details>
 
 ## 🛠 Skills
