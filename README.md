@@ -23,9 +23,11 @@
 
 ## 🗃️ Simple to High-Level Projects
 
-`Simple-Level` - ✅ *To-Do List App* — CRUD, localStorage, responsive UI  
-               - 🌤 *Weather App* — API consumption, error handling, PWA-ready  
-               - 🧮 *Basic Calculator* — Clean UI, keyboard support
+`Simple-Level` 
+
+- ✅ *To-Do List App* — CRUD, localStorage, responsive UI
+- 🌤 *Weather App* — API consumption, error handling, PWA-ready
+- 🧮 *Basic Calculator* — Clean UI, keyboard support
 
 `Medium-Level` - 📝 *Blog Platform* — Auth, markdown, image uploads  
                - 💬 *Chat Application* — WebSockets, realtime UI  
