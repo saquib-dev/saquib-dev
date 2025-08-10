@@ -8,6 +8,47 @@
   <img src="https://github-readme-stats.vercel.app/api?username=saquib-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saquib-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300" />
 </p>
+<!-- GitHub Profile Stats -->
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/saquib-dev">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=saquib-dev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"
+      alt="GitHub Stats" 
+      height="170"
+    />
+  </a>
+
+  <!-- Most Used Languages -->
+  <a href="https://github.com/saquib-dev">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=saquib-dev&layout=compact&theme=radical&hide_border=true&langs_count=8"
+      alt="Top Languages" 
+      height="170"
+    />
+  </a>
+</p>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <a href="https://github.com/saquib-dev">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=saquib-dev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+      alt="GitHub Streak" 
+      height="170"
+    />
+  </a>
+</p>
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <a href="https://github.com/saquib-dev">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=saquib-dev&theme=radical&hide_border=true&area=true"
+      alt="GitHub Activity Graph"
+    />
+  </a>
+</p>
 
 ## 🗃️ Simple to High-Level Projects
 
