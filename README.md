@@ -29,13 +29,18 @@
 - 🌤 *Weather App* — API consumption, error handling, PWA-ready
 - 🧮 *Basic Calculator* — Clean UI, keyboard support
 
-`Medium-Level` - 📝 *Blog Platform* — Auth, markdown, image uploads  
-               - 💬 *Chat Application* — WebSockets, realtime UI  
-               - 📋 *Task Management Tool* — Kanban, filters, persistence
+`Medium-Level` 
 
-`High-Level` - 🛒 *E-commerce Website* — Payments, inventory, search  
-             - 📱 *Social Media Platform* — Feeds, likes, notifications  
-             - 🤖 *AI-Powered Recommendation System* — ML model + infra
+- 📝 *Blog Platform* — Auth, markdown, image uploads
+- 💬 *Chat Application* — WebSockets, realtime UI
+- 📋 *Task Management Tool* — Kanban, filters, persistence
+
+`High-Level` 
+
+- 🛒 *E-commerce Website* — Payments, inventory, search
+- 📱 *Social Media Platform* — Feeds, likes, notifications
+- 🤖 *AI-Powered Recommendation System* — ML model + infra
+
 ## 🛠 Skills
 
 **Frontend Development:**  
