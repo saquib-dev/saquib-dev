@@ -30,7 +30,7 @@
 - 🌤 **Weather App** — API consumption, error handling, PWA-ready  
 - 🧮 **Basic Calculator** — Clean UI, keyboard support
 </details>
-
+---
 <details>
   <summary><strong>2️⃣ Medium-Level Projects</strong> — Click to expand</summary>
 
@@ -38,7 +38,7 @@
 - 💬 **Chat Application** — WebSockets, realtime UI  
 - 📋 **Task Management Tool** — Kanban, filters, persistence
 </details>
-
+---
 <details>
   <summary><strong>3️⃣ High-Level Projects</strong> — Click to expand</summary>
 
