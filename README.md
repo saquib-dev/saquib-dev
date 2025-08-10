@@ -5,8 +5,8 @@
 🚀 I’m passionate about **building projects**, sharing **practical coding knowledge**, and helping others **learn faster and smarter**. — Practice ethically!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saquib-dev&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saquib-dev&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saquib-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saquib-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300" />
 </p>
 
 ## 🗃️ Simple to High-Level Projects
