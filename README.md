@@ -2,7 +2,12 @@
 
 💡 **Founder & CEO** of [www.Linklinkgo.com](https://www.linklinkgo.com) | **Creator of Hackway** – A YouTube channel dedicated to coding, online awareness, web development, and problem-solving.  
 
-🚀 I’m passionate about **building projects**, sharing **practical coding knowledge**, and helping others **learn faster and smarter**. — Practice ethically!  
+🚀 I’m passionate about **building projects**, sharing **practical coding knowledge**, and helping others **learn faster and smarter**. — Practice ethically!
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saquib-dev&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saquib-dev&layout=compact&theme=radical" alt="Top Languages" height="165" />
+</p>
 
 ## 🗃️ Simple to High-Level Projects
 
@@ -46,10 +51,3 @@
 - 🛠 Believe in **"Code → Learn → Build → Share"**  
 
  💬 _“Building projects isn’t just about code, it’s about creating solutions that inspire others to build too.”_  
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saquib-dev&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saquib-dev&layout=compact&theme=radical" alt="Top Languages" height="165" />
-</p>
