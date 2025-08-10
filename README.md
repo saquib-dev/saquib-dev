@@ -32,7 +32,7 @@
 
 </details>
 
-<details>
+<details open>
   <summary><strong>2️⃣ Medium-Level Projects</strong> — Click to expand</summary>
 
 - 📝 *Blog Platform* — Auth, markdown, image uploads  
