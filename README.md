@@ -42,12 +42,9 @@
 - 🤖 *AI-Powered Recommendation System* — ML model + infra
 
 ## 🛠 Skills
-
-**Frontend Development:** `HTML`, `CSS & Tailwind CSS`, `JavaScript`, `Next.js`, `React`  
-
-**Backend Development:** `Node.js`, `Express.js`, `MongoDB`  
-
-**Programming Language:** `JavaScript`  
+`JavaScript`  
+**Frontend:** `HTML`, `CSS & Tailwind CSS`, `JavaScript`, `Next.js`, `React`  
+**Backend:** `Node.js`, `Express.js`, `MongoDB`  
 
 ## 🌐 Let’s connect soon! 
 
