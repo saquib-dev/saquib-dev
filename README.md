@@ -4,10 +4,6 @@
 
 🚀 I’m passionate about **building projects**, sharing **practical coding knowledge**, and helping others **learn faster and smarter**. — Practice ethically!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saquib-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saquib-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300" />
-</p>
 <!-- GitHub Profile Stats -->
 <p align="center">
   <!-- GitHub Stats Card -->
@@ -36,16 +32,6 @@
       src="https://github-readme-streak-stats.herokuapp.com?user=saquib-dev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
       alt="GitHub Streak" 
       height="170"
-    />
-  </a>
-</p>
-
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <a href="https://github.com/saquib-dev">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=saquib-dev&theme=radical&hide_border=true&area=true"
-      alt="GitHub Activity Graph"
     />
   </a>
 </p>
@@ -92,3 +78,12 @@
 - 🛠 Believe in **"Code → Learn → Build → Share"**  
 
  💬 _“Building projects isn’t just about code, it’s about creating solutions that inspire others to build too.”_  
+ <!-- GitHub Activity Graph -->
+<p align="center">
+  <a href="https://github.com/saquib-dev">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=saquib-dev&theme=radical&hide_border=true&area=true"
+      alt="GitHub Activity Graph"
+    />
+  </a>
+</p>
