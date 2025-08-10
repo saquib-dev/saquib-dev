@@ -24,7 +24,9 @@
 ## 🗃️ Simple to High-Level Projects
 
 <details>
-# <summary><strong>1️⃣ Simple-Level Projects</strong> — Click to expand</summary>
+<summary><strong>
+#  1️⃣ Simple-Level Projects
+</strong> — Click to expand</summary>
 
   - ✅ *To-Do List App* — CRUD, localStorage, responsive UI  
 - 🌤 *Weather App* — API consumption, error handling, PWA-ready  
