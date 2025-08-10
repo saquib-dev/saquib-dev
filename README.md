@@ -43,14 +43,11 @@
 
 ## 🛠 Skills
 
-**Frontend Development:**  
-`HTML` `CSS & Tailwind CSS` `JavaScript` `Next.js` `React`  
+**Frontend Development:** `HTML`, `CSS & Tailwind CSS`, `JavaScript`, `Next.js`, `React`  
 
-**Backend Development:**  
-`Node.js` `Express.js` `MongoDB`  
+**Backend Development:** `Node.js`, `Express.js`, `MongoDB`  
 
-**Programming Language:**  
-`JavaScript`  
+**Programming Language:** `JavaScript`  
 
 ## 🌐 Let’s connect soon! 
 
