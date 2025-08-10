@@ -24,27 +24,30 @@
 ## 🗃️ Simple to High-Level Projects
 
 <details>
-<summary><strong> 1️⃣ Simple-Level Projects</strong> — Click to expand</summary>
-+
-- ✅ *To-Do List App* — CRUD, localStorage, responsive UI  
-- 🌤 *Weather App* — API consumption, error handling, PWA-ready  
-- 🧮 *Basic Calculator* — Clean UI, keyboard support
+  <summary><strong>1️⃣ Simple-Level Projects</strong> — Click to collapse</summary>
+<ul>
+  <li>✅ <em>To-Do List App</em> — CRUD, localStorage, responsive UI</li>
+  <li>🌤 <em>Weather App</em> — API consumption, error handling, PWA-ready</li>
+  <li>🧮 <em>Basic Calculator</em> — Clean UI, keyboard support</li>
+</ul>
 </details>
 
 <details open>
-<summary><strong>2️⃣ Medium-Level Projects</strong> — Click to expand</summary>
-+
-- 📝 *Blog Platform* — Auth, markdown, image uploads  
-- 💬 *Chat Application* — WebSockets, realtime UI  
-- 📋 *Task Management Tool* — Kanban, filters, persistence
+  <summary><strong>2️⃣ Medium-Level Projects</strong> — Click to collapse</summary>
+<ul>
+  <li>📝 <em>Blog Platform</em> — Auth, markdown, image uploads</li>
+  <li>💬 <em>Chat Application</em> — WebSockets, realtime UI</li>
+  <li>📋 <em>Task Management Tool</em> — Kanban, filters, persistence</li>
+</ul>
 </details>
 
 <details>
-<summary><strong>3️⃣ High-Level Projects</strong> — Click to expand</summary>
-+
-- 🛒 *E-commerce Website* — Payments, inventory, search  
-- 📱 *Social Media Platform* — Feeds, likes, notifications  
-- 🤖 *AI-Powered Recommendation System* — ML model + infra
+  <summary><strong>3️⃣ High-Level Projects</strong> — Click to collapse</summary>
+<ul>
+  <li>🛒 <em>E-commerce Website</em> — Payments, inventory, search</li>
+  <li>📱 <em>Social Media Platform</em> — Feeds, likes, notifications</li>
+  <li>🤖 <em>AI-Powered Recommendation System</em> — ML model + infra</li>
+</ul>
 </details>
 
 ## 🛠 Skills
