@@ -43,7 +43,7 @@
 
 ## 🛠 Skills
 
-`HTML`, `CSS & Tailwind CSS`, `JavaScript`, `Next.js`, `React`
+`HTML`   `CSS & Tailwind CSS`   `JavaScript`   `Next.js`   `React`
 
 **Backend:** `Node.js, Express.js, MongoDB`  
 
