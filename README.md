@@ -4,6 +4,13 @@
 
 🚀 I’m passionate about **building projects**, sharing **practical coding knowledge**, and helping others **learn faster and smarter**. — Practice ethically!
 
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/saquib-dev">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Apps;Passionate+About+AI+and+Automation" alt="Typing SVG" />
+  </a>
+</p>
+
 <!-- GitHub Profile Stats -->
 <p align="center">
   <!-- GitHub Stats Card -->
@@ -18,13 +25,6 @@
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=saquib-dev&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"
     />
-  </a>
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://github.com/saquib-dev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Apps;Passionate+About+AI+and+Automation" alt="Typing SVG" />
   </a>
 </p>
 
