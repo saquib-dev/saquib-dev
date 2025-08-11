@@ -21,6 +21,13 @@
   </a>
 </p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/saquib-dev">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Apps;Passionate+About+AI+and+Automation" alt="Typing SVG" />
+  </a>
+</p>
+
 ## 🗃️ Simple to High-Level Projects
 
 `Simple-Level` 
