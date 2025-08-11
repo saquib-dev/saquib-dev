@@ -28,9 +28,9 @@
 
 `Simple-Level` 
 
-- ✅ *To-Do List App* — [CRUD, localStorage, responsive UI](https://github.com/saquib-dev/) 
-- 🌤 *Weather App* — [API consumption, error handling, PWA-ready](https://github.com/saquib-dev/) 
-- 🧮 *Basic Calculator* — [Clean UI, keyboard support](https://github.com/saquib-dev/) 
+- ✅ *[To-Do List App]* — CRUD, localStorage, responsive UI(https://github.com/saquib-dev/) 
+- 🌤 *[Weather App]* — API consumption, error handling, PWA-ready(https://github.com/saquib-dev/) 
+- 🧮 *[Basic Calculator]* — Clean UI, keyboard support(https://github.com/saquib-dev/) 
 
 `Medium-Level` 
 
