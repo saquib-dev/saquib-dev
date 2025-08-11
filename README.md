@@ -25,21 +25,21 @@
 
 `Simple-Level` 
 
-- ✅ *To-Do List App* — CRUD, localStorage, responsive UI
-- 🌤 *Weather App* — API consumption, error handling, PWA-ready
-- 🧮 *Basic Calculator* — Clean UI, keyboard support
+- ✅ *To-Do List App* — [CRUD, localStorage, responsive UI](https://github.com/saquib-dev/) 
+- 🌤 *Weather App* — [API consumption, error handling, PWA-ready](https://github.com/saquib-dev/) 
+- 🧮 *Basic Calculator* — [Clean UI, keyboard support](https://github.com/saquib-dev/) 
 
 `Medium-Level` 
 
-- 📝 *Blog Platform* — Auth, markdown, image uploads
-- 💬 *Chat Application* — WebSockets, realtime UI
-- 📋 *Task Management Tool* — Kanban, filters, persistence
+- 📝 *Blog Platform* — [Auth, markdown, image uploads](https://github.com/saquib-dev/) 
+- 💬 *Chat Application* — [WebSockets, realtime UI](https://github.com/saquib-dev/) 
+- 📋 *Task Management Tool* — [Kanban, filters, persistence](https://github.com/saquib-dev/) 
 
 `High-Level` 
 
-- 🛒 *E-commerce Website* — Payments, inventory, search
-- 📱 *Social Media Platform* — Feeds, likes, notifications
-- 🤖 *AI-Powered Recommendation System* — ML model + infra
+- 🛒 *E-commerce Website* — [Payments, inventory, search](https://github.com/saquib-dev/) 
+- 📱 *Social Media Platform* — [Feeds, likes, notifications](https://github.com/saquib-dev/) 
+- 🤖 *AI-Powered Recommendation System* — [ML model + infra](https://github.com/saquib-dev/) 
 
 ## 🛠 Skills
 
