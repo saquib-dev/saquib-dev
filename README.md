@@ -34,15 +34,15 @@
 
 `Medium-Level` 
 
-- 📝 *Blog Platform* — [Auth, markdown, image uploads](https://github.com/saquib-dev/) 
-- 💬 *Chat Application* — [WebSockets, realtime UI](https://github.com/saquib-dev/) 
-- 📋 *Task Management Tool* — [Kanban, filters, persistence](https://github.com/saquib-dev/) 
+- 📝 *[Blog Platform](https://github.com/saquib-dev/)* — Auth, markdown, image uploads
+- 💬 *[Chat Application](https://github.com/saquib-dev/)* — WebSockets, realtime UI
+- 📋 *[Task Management Tool](https://github.com/saquib-dev/)* — Kanban, filters, persistence
 
 `High-Level` 
 
-- 🛒 *E-commerce Website* — [Payments, inventory, search](https://github.com/saquib-dev/) 
-- 📱 *Social Media Platform* — [Feeds, likes, notifications](https://github.com/saquib-dev/) 
-- 🤖 *AI-Powered Recommendation System* — [ML model + infra](https://github.com/saquib-dev/) 
+- 🛒 *[E-commerce Website](https://github.com/saquib-dev/)* — Payments, inventory, search 
+- 📱 *[Social Media Platform](https://github.com/saquib-dev/)* — Feeds, likes, notifications 
+- 🤖 *[AI-Powered Recommendation System](https://github.com/saquib-dev/)* — ML model + infra 
 
 ## 🛠 Skills
 
