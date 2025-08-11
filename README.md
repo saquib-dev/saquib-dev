@@ -61,11 +61,12 @@
 - 🛠 Believe in **"Code → Learn → Build → Share"**  
 
  💬 _“Building projects isn’t just about code, it’s about creating solutions that inspire others to build too.”_  
- <!-- GitHub Activity Graph -->
+<!-- GitHub Activity Graph -->
 <p align="center">
   <a href="https://github.com/saquib-dev">
     <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=saquib-dev&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=saquib-dev&theme=dracula&hide_border=true&area=true&custom_title=My%20GitHub%20Activity&line=8be9fd&hide_rank=true&hide_labels=true&title_color=f8f8f2&text_color=bd93f9&bg_color=282a36" 
+      alt="GitHub Activity Graph"
     />
   </a>
 </p>
