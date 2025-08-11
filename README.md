@@ -11,21 +11,24 @@
   </a>
 </p>
 
-<!-- GitHub Profile Stats -->
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/saquib-dev">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=saquib-dev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"
-    />
-  </a>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
 
-  <!-- Most Used Languages -->
-  <a href="https://github.com/saquib-dev">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=saquib-dev&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"
-    />
-  </a>
+## 📊 GitHub Stats & Languages
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=saquib-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+    alt="GitHub Stats" height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saquib-dev&layout=compact&theme=radical&hide_border=true&langs_count=8" 
+    alt="Top Languages" height="170"
+  />
 </p>
 
 ## 🗃️ Simple to High-Level Projects
