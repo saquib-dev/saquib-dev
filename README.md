@@ -12,15 +12,6 @@
 </p>
 
 <p align="center">
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-## 📊 GitHub Stats & Languages
-
-<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=saquib-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" 
     alt="GitHub Stats" height="170"
