@@ -65,8 +65,8 @@
 <p align="center">
   <a href="https://github.com/saquib-dev">
     <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=saquib-dev&theme=dracula&hide_border=true&area=true&custom_title=My%20GitHub%20Activity&line=8be9fd&hide_rank=true&hide_labels=true&title_color=f8f8f2&text_color=bd93f9&bg_color=282a36" 
-      alt="GitHub Activity Graph"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=saquib-dev&theme=dracula&hide_border=true&area=true&custom_title=My%20GitHub%20Activity&line=8be9fd&hide_rank=true&hide_labels=true&title_color=f8f8f2&text_color=bd93f9&bg_color=282a36&line_point_color=ff79c6&border_radius=5&include_all_commits=true" alt="GitHub Activity Graph"
     />
   </a>
 </p>
+
